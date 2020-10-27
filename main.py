@@ -16,5 +16,3 @@ while int(guess) != int(number):
 
 # If the guess is equal to the number (outside the loop)  
 print ('Yay, you got it! Well done! :D')
-  
-
